@@ -1,2 +1,2 @@
-# Diffusion-Limited-Aggregation-
-Project Scientific Computing 
+# Diffusion-Limited-Aggregation
+Project Scientific Computing visualize DLA using Matlab
